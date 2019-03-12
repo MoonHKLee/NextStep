@@ -11,7 +11,7 @@ public class Calculator {
     public int subtract(int i, int j){
         return i-j;
     }
-    public int multiply(int i, int j){
+    public int multiple(int i, int j){
         return i*j;
     }
     public int divide(int i, int j){
